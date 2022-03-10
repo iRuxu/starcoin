@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-0glac1yu511bfd7c --n quickstartFunctions --r --project "F:\Terry\starcoins" --report_first --report
